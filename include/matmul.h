@@ -4,7 +4,7 @@
 #define __CL_ENABLE_EXCEPTIONS
 
 #include <CL/cl.h>
-#include "cl.hpp"
+#include "../cl.hpp"
 
 #include <vector>
 #include <fstream>
